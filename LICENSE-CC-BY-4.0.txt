@@ -1,0 +1,8 @@
+Author-created supporting prose and synthetic datasets in this companion repository are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Copyright (c) 2026 Daniel de Abreu Pereira Uhr.
+
+License and required terms: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Credit the author, link the license, retain notices, and identify modifications. No endorsement is implied. See LICENSE-SCOPE.md for exclusions and the separate conditions applying to official data. The books themselves are not included in this license grant.

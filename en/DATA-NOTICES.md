@@ -1,0 +1,3 @@
+U.S. Census Bureau, TIGERweb States,2026 vintage; acquired2026-10-27. This product uses Census Bureau data but is not endorsed or certified by the Census Bureau. Official data reproduction guidance: https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2026/TGRSHP2026_TechDoc_Ch1.pdf . No Census logos are included.
+
+Board of Governors of the Federal Reserve System, G.17, AIP_IX,2017=100,2023–2024; acquired2026-10-27. Raw file and reshaped snapshot are documented separately. Public-domain Board information; see https://www.federalreserve.gov/disclaimer.htm . No endorsement or certification is implied; no seals or logos are included.

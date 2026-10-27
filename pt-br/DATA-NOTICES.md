@@ -1,0 +1,3 @@
+Banco Central do Brasil / Departamento Econômico, IBC-Br, SGS24363, snapshot2023–2024. Este banco de dados derivado permanece sob Open Database License (ODbL)1.0; ver licenses/ODbL-1.0.txt e https://opendatacommons.org/licenses/odbl/1-0/ . Fonte: https://dadosabertos.bcb.gov.br/dataset/24363-indice-de-atividade-economica-do-banco-central---ibc-br .
+
+IBGE: API de Localidades, cadastro de Unidades da Federação. Fonte e snapshot identificados em data/ch15/README.md. Reutilização de dados públicos federais, com crédito, sob Decreto8.777/2016 arts.2III,3IV e4. Não se atribui uma licença CC específica ao IBGE.
